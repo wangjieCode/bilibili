@@ -1,7 +1,7 @@
 //轮播图右侧视频数据
 export const videoData = [{
     src: "https://www.bilibili.com/video/BV1cG411W7hE?spm_id_from=333.851.b_7265636f6d6d656e64.3",
-    imgsrc: "../imgs/zhuye1.jpg",
+    imgsrc: "./imgs/zhuye1.jpg",
     videosrc: "../imgs/zhuye1.mp4",
     num: "2.3万",
     vnum: 9,
@@ -13,8 +13,8 @@ export const videoData = [{
   },
   {
     src: "https://www.bilibili.com/video/BV1xN4y1L7K7?spm_id_from=333.851.b_7265636f6d6d656e64.5",
-    imgsrc: "../imgs/zhuye2.jpg",
-    videosrc: "../imgs/zhuye2.mp4",
+    imgsrc: "./imgs/zhuye2.jpg",
+    videosrc: "./imgs/zhuye2.mp4",
     num: "17.5万",
     vnum: 180,
     time: "01：30",
@@ -25,8 +25,8 @@ export const videoData = [{
   },
   {
     src: "https://www.bilibili.com/video/BV1cG411W7hE?spm_id_from=333.851.b_7265636f6d6d656e64.3",
-    imgsrc: "../imgs/zhuye3.jpg",
-    videosrc: "../imgs/zhuye3.mp4",
+    imgsrc: "./imgs/zhuye3.jpg",
+    videosrc: "./imgs/zhuye3.mp4",
     num: "3522",
     vnum: 0,
     time: "05：02",
@@ -37,8 +37,8 @@ export const videoData = [{
   },
   {
     src: "https://www.bilibili.com/video/BV1VF411P7cd?spm_id_from=333.851.b_7265636f6d6d656e64.1",
-    imgsrc: "../imgs/zhuye4.jpg",
-    videosrc: "../imgs/zhuye4.mp4",
+    imgsrc: "./imgs/zhuye4.jpg",
+    videosrc: "./imgs/zhuye4.mp4",
     num: "5.5万",
     vnum: 406,
     time: "04：18",
